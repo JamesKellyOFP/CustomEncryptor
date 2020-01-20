@@ -1,0 +1,12 @@
+﻿  EncryptFactory.cpp
+  FEncrypt.cpp
+  FileFix.cpp
+  FilterMgr.cpp
+  FLowerCase.cpp
+  FUpperCase.cpp
+  InteractiveFix.cpp
+  LCaseFactory.cpp
+  UCaseFactory.cpp
+  WordFix.cpp
+  Generating Code...
+  Homework4.vcxproj -> C:\Users\jrkel\Documents\SoftwareEngineering\homework4\Homework4\x64\Debug\Homework4.exe
